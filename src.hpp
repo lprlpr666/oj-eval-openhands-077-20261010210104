@@ -1,4 +1,3 @@
-#define https //
 // CrossArray implementation for OJ
 #ifndef CROSSARRAY_HPP
 #define CROSSARRAY_HPP
